@@ -1,0 +1,33 @@
+main, section,aside {display :block;}
+html,body,h1,p {
+	padding:0;
+	margin:0;
+}
+body{
+	background-color :white;
+
+}
+h1 {background-color:red ;text-align: center;}
+	p {text-align: center;color:purple;}
+	li { 
+	font-weight: bold;
+	
+	background-color: red; text-align:center;color:white;
+	}
+
+	.movieList {
+		background-color:red;
+		text-align: justify;
+		color:black;
+	}
+	.movieCategory{
+		display: inline;
+	}
+	h3{text-align:top;color:red;background-color:black;}
+	
+	.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
